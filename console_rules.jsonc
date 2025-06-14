@@ -1,0 +1,48 @@
+{
+  // ======== NINTENDO ========
+  // Stationär
+  "nes":                    { "max_price_working": 40, "max_price_defective": 20 },   // Nintendo Entertainment System, stationär
+  "snes":                   { "max_price_working": 40, "max_price_defective": 20 },   // Super Nintendo, stationär
+  "n64":                    { "max_price_working": 45, "max_price_defective": 25 },   // Nintendo 64, stationär
+  "gamecube":               { "max_price_working": 35, "max_price_defective": 20 },   // Nintendo GameCube, stationär
+  "wii":                    { "max_price_working": 20, "max_price_defective": 10 },   // Nintendo Wii, stationär
+  "wii u":                  { "max_price_working": 40, "max_price_defective": 25 },   // Nintendo Wii U, stationär
+
+  // Handheld
+  "gameboy":                { "max_price_working": 35, "max_price_defective": 20 },   // Game Boy, Handheld
+  "gameboy color":          { "max_price_working": 35, "max_price_defective": 20 },   // Game Boy Color, Handheld
+  "gameboy advance":        { "max_price_working": 35, "max_price_defective": 20 },   // Game Boy Advance, Handheld
+  "gameboy advance sp":     { "max_price_working": 40, "max_price_defective": 25 },   // Game Boy Advance SP, Handheld
+  "ds":                     { "max_price_working": 20, "max_price_defective": 10 },   // Nintendo DS, Handheld
+  "ds lite":                { "max_price_working": 25, "max_price_defective": 15 },   // Nintendo DS Lite, Handheld
+  "dsi":                    { "max_price_working": 25, "max_price_defective": 15 },   // Nintendo DSi, Handheld
+  "dsi xl":                 { "max_price_working": 30, "max_price_defective": 20 },   // Nintendo DSi XL, Handheld
+  "2ds":                    { "max_price_working": 40, "max_price_defective": 20 },   // Nintendo 2DS, Handheld
+  "3ds":                    { "max_price_working": 45, "max_price_defective": 25 },   // Nintendo 3DS, Handheld
+  "3ds xl":                 { "max_price_working": 50, "max_price_defective": 30 },   // Nintendo 3DS XL, Handheld
+  "new 2ds xl":             { "max_price_working": 60, "max_price_defective": 35 },   // New Nintendo 2DS XL, Handheld
+  "new 3ds":                { "max_price_working": 60, "max_price_defective": 35 },   // New Nintendo 3DS, Handheld
+  "new 3ds xl":             { "max_price_working": 70, "max_price_defective": 40 },   // New Nintendo 3DS XL, Handheld
+
+  // ======== SEGA ========
+  // Stationär
+  "genesis":                { "max_price_working": 30, "max_price_defective": 15 },   // Sega Genesis/Mega Drive, stationär
+  "saturn":                 { "max_price_working": 50, "max_price_defective": 30 },   // Sega Saturn, stationär
+  "dreamcast":              { "max_price_working": 55, "max_price_defective": 30 },   // Sega Dreamcast, stationär
+  "sega cd":                { "max_price_working": 80, "max_price_defective": 50 },   // Sega CD/Mega CD, stationär
+
+  // ======== SONY ========
+  // Stationär
+  "ps1":                    { "max_price_working": 25, "max_price_defective": 10 },   // PlayStation 1, stationär
+  "ps2":                    { "max_price_working": 30, "max_price_defective": 15 },   // PlayStation 2, stationär
+  "ps3":                    { "max_price_working": 35, "max_price_defective": 20 },   // PlayStation 3, stationär
+
+  // Handheld
+  "psp":                    { "max_price_working": 35, "max_price_defective": 20 },   // PlayStation Portable, Handheld
+  "ps vita":                { "max_price_working": 70, "max_price_defective": 40 },   // PlayStation Vita, Handheld
+
+  // ======== MICROSOFT ========
+  // Stationär
+  "xbox":                   { "max_price_working": 30, "max_price_defective": 15 },   // Xbox (OG), stationär
+  "xbox 360":               { "max_price_working": 30, "max_price_defective": 15 }    // Xbox 360, stationär
+}
