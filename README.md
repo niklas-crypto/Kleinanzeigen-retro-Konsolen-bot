@@ -104,6 +104,3 @@ The bot will search for new ads at your chosen interval and notify you via email
 
 **Happy collecting! 🎮**  
 If you have any questions or need help, feel free to open an issue on [GitHub](https://github.com/niklas-crypto/Kleinanzeigen-retro-Konsolen-bot/issues).
-```
-
-**Füge diesen gesamten Codeblock in dein `README.md` ein – damit ist der gesamte Installationsprozess ausführlich und übersichtlich dokumentiert!**
